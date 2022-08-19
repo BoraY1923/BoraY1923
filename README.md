@@ -1,16 +1,36 @@
-### Hi there 👋
+###
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30" height="30" set draggable="false">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" >    
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" witdh="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30" height="30">
+</div>
 
-<!--
-**BoraY1923/BoraY1923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------
+```javascript
 
-Here are some ideas to get you started:
+import figlet from 'figlet';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+figlet('BoraY', function(err, data) {
+    if (err) {
+        console.log('yo something went wrong !');
+        console.dir(err);
+        return;
+    }
+    console.log(data);
+});
+
+/*
+
+  ____                __   __
+ | __ )  ___  _ __ __ \ \ / /
+ |  _ \ / _ \| '__/ _` \ V / 
+ | |_) | (_) | | | (_| || |  
+ |____/ \___/|_|  \__,_||_| 
+
+*/
+```
