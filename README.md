@@ -6,7 +6,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" >    
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="30" height="30">
-    <!-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" witdh="30" height="30">
+    <!-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"  witdh="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30" height="30">
 </div>
 
