@@ -9,7 +9,7 @@
 --------
 ![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
 -------
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?boray1923=vn7n24fzkq&theme=default
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?boray1923=vn7n24fzkq&theme=default)
 -------
 ```javascript
 
