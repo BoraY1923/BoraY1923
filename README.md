@@ -7,6 +7,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" >   
 </div>
 
+
+----------
+Lorem ipsum dolor sit amet
 -----------
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
