@@ -7,8 +7,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" >   
 </div>
 
+-----------
+
 ![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
 
+-------
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BoraY1923&theme=solarized_dark)
 -------
 ```javascript
 
