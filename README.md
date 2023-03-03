@@ -6,8 +6,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" >    
 </div>
-
+--------
 ![Discord Presence](https://lanyard.cnrad.dev/api/373495325668671488)
+-------
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?boray1923=vn7n24fzkq&theme=default
 -------
 ```javascript
 
